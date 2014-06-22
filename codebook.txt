@@ -1,0 +1,17 @@
+Codebook
+
+The subjects are numbered 1-30. No further details on the subjects are given. 
+
+The activities are numbered 1-6. These are 
+1 WALKING
+2 WALKING_UPSTAIRS
+3 WALKING_DOWNSTAIRS
+4 SITTING
+5 STANDING
+6 LAYING
+
+There are 180 columns in the tidied data. For ease of recognition the names from the original data are retained
+although the actual numbers correspond to means, one mean for each (subject, activity) pair. 
+
+
+
